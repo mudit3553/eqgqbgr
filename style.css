@@ -1,0 +1,26 @@
+h1 {
+    color:rgba(255, 0, 0, 0.774);
+    }  
+    /* * {
+     border: solid
+    }    */
+
+    .header {
+        background-color: yellow;
+        display: flex;
+        justify-content:space-between;
+    }
+
+    .item {
+      color: blueviolet;
+    }
+    .grid{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content:space-around
+
+    }
+    .footer{
+display:flex;
+justify-content:flex-end
+    }
